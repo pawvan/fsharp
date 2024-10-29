@@ -1,0 +1,6 @@
+let tuple  =(1,"pawan",true)
+type person  = {name:string ,age:int}
+
+let pawan = {name:"pawan",age:20}
+
+
